@@ -17,6 +17,6 @@ A recipe application built using HTML, CSS, and JavaScript with the integration 
 ### [Live Demo](https://recipe-diy.vercel.app/) on Vercel
 
 <p align="center">
-  <img src="./img/example.png" width="100%" height="auto" />
+  <img src="./Recipe_App/img/example.png" width="100%" height="auto" />
 </p>
 
